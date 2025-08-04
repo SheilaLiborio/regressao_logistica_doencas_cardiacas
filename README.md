@@ -54,7 +54,6 @@ Construir um modelo de **classificação binária** usando **Regressão Logísti
 
 ### 2. Pré-processamento
 - Codificação de variáveis categóricas
-- Normalização de dados numéricos
 
 ### 3. Modelagem
 - Construção de modelo de **Regressão Logística**
